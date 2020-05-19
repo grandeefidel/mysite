@@ -1,0 +1,19 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "This would be my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grandeefidel/mysite.git"
+  },
+  "author": "Chukwurah Fidelis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grandeefidel/mysite/issues"
+  },
+  "homepage": "https://github.com/grandeefidel/mysite#readme"
+}
